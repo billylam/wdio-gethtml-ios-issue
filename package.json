@@ -1,0 +1,27 @@
+{
+  "name": "wdio-gethtml-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "wdio wdio.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billylam/wdio-gethtml-issue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billylam/wdio-gethtml-issue/issues"
+  },
+  "homepage": "https://github.com/billylam/wdio-gethtml-issue#readme",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.6.3",
+    "wdio-sauce-service": "^0.4.11",
+    "webdriverio": "^4.13.2"
+  }
+}
